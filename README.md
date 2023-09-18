@@ -1,5 +1,7 @@
 # Analog-Clock-in-HTML-CSS-JS
+
 checkout:https://manibhardawaj.github.io/Analog_clock/
+
 This project is a simple analog clock built using HTML, CSS, and JavaScript. It provides a visually appealing and functional representation of the current time. The clock's hands move in real-time to reflect the hours, minutes, and seconds, making it a fun and educational tool to understand how analog clocks work. This project serves as an excellent starting point for learning web development basics and enhancing your JavaScript skills.
 
 Description:
